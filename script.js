@@ -1,4 +1,6 @@
-const message =`Hii, happy valentine nellaa.i just want to say that and give you some sweet.\noh yeah this has been planned for a long time but i was a little afraid to give my plan because of what you said at that time.\n\nSo yeah that's all I want to say and give to you, and I apologize for whatever I've done up until now.\n\nAnyway, thanku yeah for everything.`;
+const message =`Hii, happy valentine nellaa.i just want to say that and give you some sweet.\noh yeah this has been planned for a long time but i was a little afraid to give my plan because of what you said at that time.\n\nSo yeah that's all I want to say and give to you,May today you feel appreciated, loved, and remembered—because you are that important.
+
+\nWhatever happens in the future, I just hope you're always happy. And if one day you need someone to share your story with, I'll still be there.\n\nAnyway, thanku yeah for everything.`;
 
 
 
